@@ -1,0 +1,4 @@
+/.vagrant
+/vendor/*.*
+/cmd.exe
+/.idea/workspace.xml
